@@ -1,0 +1,13 @@
+git init: inicia el repositorio en la carpeta en la que estamos ubicados
+
+git config --local user.email :Establece el usuario que esta haciendo los cambios
+git config --local user.name :
+
+
+git add . :agrega todos los archivos al reposirotio
+
+git commit -m :comenta los cambios que hemos hecho
+
+git remote add origin :añadimos el lugar de la nube donde subiremos el repositorio
+
+git push -u origin master :guardamos los cambios en la nube y los agregamos a la rama principal
